@@ -24,6 +24,14 @@ namespace Laba1
             Console.WriteLine($"Номер квитанции: {number}");
             Console.WriteLine($"Дата:{date}");
             Console.WriteLine($"Сумма: {amount}");
+
+
+
+
+
+
+
+
         }
 
         static void Main(string[] args)
